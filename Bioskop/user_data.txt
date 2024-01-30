@@ -1,0 +1,7 @@
+fgh,tes,12:00,tis
+guk,tes,12:00,tis
+ucok,tes,12:00,tis
+poi,iop,12:00,jkl
+iopi,iop,12:00,jkl
+izi,tes,12:00,tis
+prikitiw,tes,12:00,tis

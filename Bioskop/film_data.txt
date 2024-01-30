@@ -1,0 +1,10 @@
+tes,12:00,tis
+iop,12:00,jkl
+tis,11:00,asd
+tas,00:00,zxc
+hjk,34:12,asd
+bnm,12:99,yui
+ril,34:56,qaz
+rt,12:00,rw
+uio,12:99,rty
+siksa kubur,12:00,jalanan
